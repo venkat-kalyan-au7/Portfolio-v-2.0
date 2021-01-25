@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "project": "TaskBidder",
+    "about": "TaskBidder allows for you to put those pesky time-consuming chores up for sale, and allows others to become the extra hands you need! You have tasks that need to get done, and people are willing to do them.",
+    "website": "https://cherry-tart-69309.herokuapp.com/",
+    "githubLink": "https://github.com/Kclaster/todo",
+    "img": "https://raw.githubusercontent.com/Kclaster/todo/master/client/src/pictures/TaskBidder%20Home.png"
+  },
+  {
+    "id": 2,
+    "project": "Dark Souls Clicky game",
+    "about": "Click on an image to earn points, but don't click on any more than once!",
+    "website": "https://serene-earth-22885.herokuapp.com/",
+    "githubLink": "https://github.com/patrickj188/ClickyGame",
+    "img": "http://darksouls.wdfiles.com/local--files/bosses/gaping-dragon-large.jpg"
+  },
+  {
+    "id": 3,
+    "project": "Signal",
+    "about": "Tell signal what your hungry for, or what kind of activities and music you like, and we will take care of the rest. Signal will cut out all of the noise and give you the two best options. Signal takes away the headache of endless searching and scrolling.",
+    "website": "https://crcass.github.io/project-one",
+    "githubLink": "https://github.com/crcass/project-one",
+    "img": "https://raw.githubusercontent.com/crcass/project-one/master/assets/images/signal.jpg"
+  },
+  {
+    "id": 4,
+    "project": "Train Scheduler",
+    "about": "Personal train scheduler website! Input your daily or weekly train schedules, and we will keep track of departure and arrival times. No point in wasting your time trying to find your specific train added to the website, and we will take care of it for you.",
+    "website": "https://patrickj188.github.io/Train_Scheduler/",
+    "githubLink": "https://github.com/patrickj188/Train_Scheduler",
+    "img": "https://raw.githubusercontent.com/patrickj188/Patrick-Johnson-Portfolio/master/assets/images/2.png"
+  },
+  {
+    "id": 5,
+    "project": "Eat-Da-Burger",
+    "about": "This app allows you to create different types of burgers and then eat them!",
+    "website": "https://patrickj188.github.io/DarkSoulsBosses/app/public/bosses.html",
+    "githubLink": "https://github.com/patrickj188/DarkSoulsBohttps://github.com/patrickj188/react-portfolio.gitsses",
+    "img": "https://raw.githubusercontent.com/patrickj188/burger/master/public/assets/img/burger.jpeg"
+  },
+  {
+    "id": 6,
+    "project": "Dark Souls 1 - Bosses",
+    "about": "Practicing with CSS animation. The webpage shows all of DarkSouls 1 bosses and their lore.",
+    "website": "https://patrickj188.github.io/Practice/",
+    "githubLink": "https://github.com/patrickj188/Practice",
+    "img": "https://raw.githubusercontent.com/patrickj188/DarkSoulsBosses/master/img/DSBosses.png"
+  }
+]
